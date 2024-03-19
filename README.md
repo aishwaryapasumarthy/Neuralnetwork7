@@ -2,7 +2,7 @@
 Name: AISHWARYA PASUMARTHY
 Id:700759282
 
-Videoink:
+Videoink: https://drive.google.com/file/d/1iQbYJhyWhFhCGi4ZJohqmuXT8IP02MeD/view?usp=sharing
 
 Neural Network Assignment ICP_8 Programs
 
